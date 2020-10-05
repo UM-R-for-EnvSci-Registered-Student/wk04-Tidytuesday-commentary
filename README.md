@@ -1,7 +1,7 @@
 # Week 04 - Tydituesday commentary assignment
 This repo is intended to house all this week's commentary on #tidytuesday.
 
-As a reminder, #TidyTuesday is a weekly twitter event organized by the [@R4DScommunity](https://twitter.com/R4DScommunity), where a dataset is made available, and then over the week, people work on that dataset. People are encouraged to produce whatever they want from the dataset. This could be a simple plot, table or a complex analysis. They welcome people of all skills, so you will see products fitting every level, from begginers to experts.
+As a reminder, #TidyTuesday is a weekly twitter event organized by the [@R4DScommunity](https://twitter.com/R4DScommunity), where a dataset is made available, and then over the week, people work on that dataset. People are encouraged to produce whatever they want from the dataset. This could be a simple plot, table, or a complex analysis. They welcome people of all skills, so you will see products fitting every level, from begginers to experts.
 
 All their data (including previous weeks) is available in their [GitHub repo](https://github.com/rfordatascience/tidytuesday)
 
