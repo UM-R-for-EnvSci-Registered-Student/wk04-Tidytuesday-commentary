@@ -5,7 +5,7 @@ As a reminder, #TidyTuesday is a weekly twitter event organized by the [@R4DScom
 
 All their data (including previous weeks) is available in their [GitHub repo](https://github.com/rfordatascience/tidytuesday)
 
-The data for [this week](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-10-06) (Week 41, based on the weeks of the year) is about the NCAA Women's Basketball Tournament.
+The data for [this week](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-10-06) (Week 41, based on the weeks of the year) is about the **NCAA Women's Basketball Tournament**.
 
 ## Your tasks
 
